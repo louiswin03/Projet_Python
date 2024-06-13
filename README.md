@@ -1,4 +1,4 @@
-Voici mon projet de jeu vidéo simple en langage python réalisé en 1ere année de cycle préparatoire intégré 
+Voici mon projet de jeu vidéo en langage python réalisé en 1ere année de cycle préparatoire intégré 
 
 Quelques photos du jeu ci dessous:
 
